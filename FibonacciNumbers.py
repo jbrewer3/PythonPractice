@@ -1,4 +1,7 @@
-def FibonacciNumbers(n):
+from typing import ClassVar
+
+
+def FibonacciNumbers(n: int) -> int:
     """
     Returns the `n`th fibonacci number, for positive `n`.
     """
@@ -8,9 +11,9 @@ def FibonacciNumbers(n):
     n_minus1, n_minus2 = 1, 0
     result = None
     for f in range(n -1):
-        result = n_minus2 + n_minus1 # 0 + 1, #
-        n_minus2 = n_minus1 # n_minus2 = 1,
-        n_minus1 = result #= 1,
+        result = n_minus2 + n_minus1 
+        n_minus2 = n_minus1 
+        n_minus1 = result 
 
     return result
 
