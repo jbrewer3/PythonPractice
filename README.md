@@ -1,3 +1,3 @@
-#Python Practice
+# Python Practice
 ## Learning to code in 🐍
 
