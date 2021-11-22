@@ -1,6 +1,6 @@
-# <p align="center">
+# <h align="center">
   Python Practice
-  </p>
+  </h>
 
 ## Learning to code in 🐍
 
