@@ -1,6 +1,3 @@
-# <h align="center">
-  Python Practice
-  </h>
-
+#Python Practice
 ## Learning to code in 🐍
 
